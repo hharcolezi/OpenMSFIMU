@@ -15,4 +15,4 @@
 - Region : the region or country the visitor is from **(str)**
 - Sleeping area : the area which the visitor slept the previous night *('Agglomeration of Belfort', 'Agglomeration of Hericourt', 'Agglomeration of Montbeliard', 'North Haut Rhin', 'South Haut Rhin', 'Rest of Doubs', 'Rest of Haute Saone', 'Rest Territory of Belfort', 'City of Belfort', 'Vosges')* **(str)**
 
-**Dates = {(1: 2017-05-31), (2: 2017-06-01), (3: 2017-06-03), (4: 2017-06-04), (5: 2017-06-05), (7: 2017-06-06)}**
+**Dates** = *{(1: 2017-05-31), (2: 2017-06-01), (3: 2017-06-03), (4: 2017-06-04), (5: 2017-06-05), (7: 2017-06-06)}*
