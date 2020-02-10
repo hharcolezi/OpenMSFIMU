@@ -17,6 +17,6 @@ For any question about the dataset please contact: heber.hwang_arcolezi [at] uni
 The available dataset is based on real acquired data from mobile operators with specific information of the population present on the geographical area of the international music festival known as "Festival International de Musique Universitaire" (FIMU) in Belfort-France. The period of the analysis is 7 days including one day before the FIMU event (31/05/2017), the five days of the festival (1-5/06/2017), and one day after it (06/06/2017). 
 
 ## Final mobility scenario
-![Final optimized mobility scenario](/data/global_ms.png)
+![Final optimized mobility scenario](/Data/global_ms.png)
 
 
