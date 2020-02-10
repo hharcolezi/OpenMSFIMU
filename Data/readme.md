@@ -3,7 +3,7 @@
 **Associative Table**
 - *Key1 PersonID* : unique ID per virtual people (int)
 - *Key2 DateID* : unique ID per day (int)
-- Visit Duration : number of hours that visitors were seen in the area of interest (str)
+- Visit Duration : number of hours that visitors were seen in the area of interest *('Duration 2h', 'Duration 3h', 'Duration 4h', 'Duration 5h', 'Duration 6h', 'Duration 7h', 'Duration 8h', 'Duration 9h', 'Duration 10h', 'Duration 10h-18h')* **(str)**
 
 **Personal Info Table**
 - PersonID : unique ID per virtual people **(int)**
