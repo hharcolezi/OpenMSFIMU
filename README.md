@@ -8,7 +8,7 @@ The results in this repository are from a manuscript submitted for publication a
 If you consider using our findings and dataset in your research, please cite our paper:
 
 Sorce (citation)
-- H. H. Arcolezi, JF. Couchot, O. Baala, JM. Contet, B. Al Bouna, X. Xiao, *Mobility modeling through mobile data: generating an optimized and open dataset respecting privacy*, International conference on Wireless Communications & Mobile Computing (IWCMC), June 2020. DOI: https://doi.org/10.13140/RG.2.2.24306.534454
+- H. H. Arcolezi, JF. Couchot, O. Baala, JM. Contet, B. Al Bouna, X. Xiao, *Mobility modeling through mobile data: generating an optimized and open dataset respecting privacy*, International conference on Wireless Communications & Mobile Computing (IWCMC), June 2020. DOI: https://doi.org/10.13140/RG.2.2.24306.53445
 
 ## Contact
 
