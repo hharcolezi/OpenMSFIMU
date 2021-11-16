@@ -27,6 +27,6 @@ For any question about the dataset please contact: heber.hwang_arcolezi [at] uni
 The original database is from a mobile network operator in France ([Orange](https://www.orange-business.com/en/products/flux-vision)), which collects statistics on the frequency of users on days and union of days through analyzing mobile phone data (i.e., call detail records). The geographical space is the area of an international music festival aka "Festival International de Musique Universitaire" (FIMU), which happened in June 2017 in Belfort town, France. The period of the analysis is 7 days including one day before the FIMU event (31/05/2017), the five days of the festival (01/06/2017 - 05/06/2017), and one day after it (06/06/2017). 
 
 ## Final mobility scenario
-With our methodology, we propose a mobility scenario with the frequency of users per day and per the intersection of days. The image below presents a Karnaugh map for the 7-days with the number of people in each combination of days.
+With our methodology, we propose a mobility scenario with the frequency of users per day and per the intersection of days. The image below presents a Boolean map for the 7-days with the number of people in each combination of days.
 
 ![Final optimized mobility scenario](/Data/Global_MS.png)
