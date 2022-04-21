@@ -26,7 +26,7 @@ H. H. Arcolezi, J-F. Couchot, O. Baala, J-M. Contet, B. Al Bouna and X. Xiao, "M
 
 ## Contact
 
-For any question about the dataset please contact: heber.hwang_arcolezi [at] univ-fcomte.fr
+For any question about the dataset, please contact [Héber H. Arcolezi](https://hharcolezi.github.io/): heber.hwang-arcolezi [at] inria.fr
 
 ## General information
 The original database is from a mobile network operator in France ([Orange](https://www.orange-business.com/en/products/flux-vision)), which collects statistics on the frequency of users on days and union of days through analyzing mobile phone data (i.e., call detail records). The geographical space is the area of an international music festival aka "Festival International de Musique Universitaire" (FIMU), which happened in June 2017 in Belfort town, France. The period of the analysis is 7 days including one day before the FIMU event (31/05/2017), the five days of the festival (01/06/2017 - 05/06/2017), and one day after it (06/06/2017). 
